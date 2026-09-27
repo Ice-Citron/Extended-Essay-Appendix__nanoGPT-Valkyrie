@@ -1,4 +1,4 @@
-# Extended Essay: GPT-2 Evaluation Appendix
+# Extended Essay: nanoGPT-Valkyrie Evaluation Appendix
 
 **[Read the full extended essay][paper]**
 
